@@ -1,0 +1,19 @@
+{
+  "hash": "85740c12",
+  "browserHash": "1185c29c",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "60bad28f",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/@vue/devtools-api/lib/esm/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "a68c2d8a",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
